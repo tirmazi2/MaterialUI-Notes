@@ -2,7 +2,8 @@
 A note keeping app built with MaterialUI and some love.
 
 ## Screenshots
-![MY Notes](my-notes.jpg)
+![my-note](https://user-images.githubusercontent.com/41047197/132952942-182243b5-3f21-4cc4-acf8-a2f12927e27e.png)
+
 
 ## Available Scripts
 
